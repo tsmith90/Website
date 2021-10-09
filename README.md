@@ -1,3 +1,3 @@
-# Personal Website to showecase history and ability
+Personal Website to showcase history and ability
 
 
